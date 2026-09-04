@@ -1,0 +1,201 @@
+﻿id_venta,fecha,cliente,cuit,codigo_producto,producto,cantidad,precio_unit,total,medio_pago,vendedor
+1,2026-08-22,Kiosco El Faro 15,27369957773,SKU-1035,Escritorio 120cm Plus,5,26887.39,134436.95,Mercado Pago,Martín Pérez
+2,2026-06-22,Comercio San Martín 4,20838425135,SKU-1005,Lapicera azul x12 Plus,10,27047.15,270471.5,Mercado Pago,Diego Torres
+3,2026-08-28,María Pérez,27837770143,SKU-1008,Carpeta oficio Plus,10,46407.82,464078.2,Tarjeta,Camila Ruiz
+4,2026-08-03,Consumidor Final,20094777520,SKU-1033,Silla ergonómica Eco,15,53038.94,795584.1,Efectivo,Lucía Gómez
+5,2026-08-17,Juan Pérez,27909670546,SKU-1028,Bolsa consorcio x100,9,67295.65,605660.85,Efectivo,Lucía Gómez
+6,2026-08-15,Consumidor Final,20186999386,SKU-1015,Tóner alternativo Eco,1,57307.26,57307.26,Mercado Pago,Lucía Gómez
+7,2026-07-31,Almacén Don Pepe 12,20196556981,SKU-1049,Auricular vincha,17,2366.89,40237.13,Tarjeta,Camila Ruiz
+8,2026-07-26,Consumidor Final,20964990913,SKU-1012,Cuaderno espiral Eco,16,22127.64,354042.24,Efectivo,Diego Torres
+9,2026-07-13,Diego Martínez,20850671657,SKU-1023,Papel higiénico x30 Plus,11,45230.88,497539.68,Efectivo,Martín Pérez
+10,2026-08-28,Diego Martínez,20850671657,SKU-1022,Papel higiénico x30,16,29114.81,465836.96,Mercado Pago,Diego Torres
+11,2026-06-05,Consumidor Final,20167190229,SKU-1049,Auricular vincha,15,2366.89,35503.35,Efectivo,Camila Ruiz
+12,2026-06-15,Juan Pérez,27909670546,SKU-1017,Lavandina 5L Plus,13,40043.2,520561.6,Efectivo,Diego Torres
+13,2026-06-25,Comercio San Martín 4,20838425135,SKU-1027,Desinfectante 5L Eco,17,34335.27,583699.59,Mercado Pago,Diego Torres
+14,2026-06-07,Juan Sánchez,20735454948,SKU-1041,Caja archivo Plus,7,39692.23,277845.61,Mercado Pago,Martín Pérez
+15,2026-08-29,Juan Sánchez,20735454948,SKU-1019,Detergente 5L,16,28643.36,458293.76,Efectivo,Lucía Gómez
+16,2026-07-01,Consumidor Final,20123281206,SKU-1041,Caja archivo Plus,6,39692.23,238153.38,Mercado Pago,Lucía Gómez
+17,2026-06-12,Diego Martínez,20850671657,SKU-1036,Escritorio 120cm Eco,8,34173.48,273387.84,Efectivo,Diego Torres
+18,2026-08-03,Tech Hogar SA 10,30607337543,SKU-1008,Carpeta oficio Plus,10,46407.82,464078.2,Mercado Pago,Diego Torres
+19,2026-07-02,Consumidor Final,20957885685,SKU-1031,Silla ergonómica,15,58888.08,883321.2,Transferencia,Diego Torres
+20,2026-08-05,Consumidor Final,20123281206,SKU-1013,Tóner alternativo,5,40660.23,203301.15,Efectivo,Camila Ruiz
+21,2026-07-14,Diego Martínez,20850671657,SKU-1050,Webcam HD,17,31634.85,537792.45,Mercado Pago,Lucía Gómez
+22,2026-08-15,Ana Romero,20236231665,SKU-1019,Detergente 5L,19,28643.36,544223.84,Tarjeta,Martín Pérez
+23,2026-08-01,Consumidor Final,20094777520,SKU-1029,Bolsa consorcio x100 Plus,12,3969.97,47639.64,Mercado Pago,Diego Torres
+24,2026-06-25,Juan Pérez,27909670546,SKU-1030,Bolsa consorcio x100 Eco,8,17061.86,136494.88,Tarjeta,Martín Pérez
+25,2026-06-06,Diego Martínez,20850671657,SKU-1050,Webcam HD,11,31634.85,347983.35,Tarjeta,Diego Torres
+26,2026-08-03,Tech Hogar SA 10,30607337543,SKU-1025,Desinfectante 5L,2,27847.61,55695.22,Transferencia,Camila Ruiz
+27,2026-06-13,Juan Sánchez,20735454948,SKU-1007,Carpeta oficio,17,6837.13,116231.21,Tarjeta,Lucía Gómez
+28,2026-07-23,Tech Hogar SA 10,30607337543,SKU-1047,Teclado USB,5,64085.61,320428.05,Efectivo,Diego Torres
+29,2026-08-19,Diego Díaz,27346706562,SKU-1017,Lavandina 5L Plus,13,40043.2,520561.6,Efectivo,Camila Ruiz
+30,2026-07-19,Consumidor Final,20094777520,SKU-1044,Calculadora Plus,11,13449.02,147939.22,Tarjeta,Lucía Gómez
+31,2026-07-01,Almacén Don Pepe 5,30808412411,SKU-1040,Caja archivo,10,54022.2,540222.0,Transferencia,Lucía Gómez
+32,2026-08-21,Oficina Norte SRL 7,30427868011,SKU-1028,Bolsa consorcio x100,4,67295.65,269182.6,Tarjeta,Martín Pérez
+33,2026-06-04,Ana Romero,20236231665,SKU-1045,Calculadora Eco,2,33548.21,67096.42,Mercado Pago,Lucía Gómez
+34,2026-07-18,Diego García,20162720465,SKU-1019,Detergente 5L,14,28643.36,401007.04,Transferencia,Martín Pérez
+35,2026-08-12,Diego Martínez,20850671657,SKU-1034,Escritorio 120cm,6,27582.28,165493.68,Transferencia,Martín Pérez
+36,2026-07-19,Consumidor Final,20034471349,SKU-1006,Lapicera azul x12 Eco,20,20114.5,402290.0,Transferencia,Diego Torres
+37,2026-06-30,Tech Hogar SA 10,30607337543,SKU-1038,Cinta embalaje x6 Plus,15,5999.56,89993.4,Mercado Pago,Diego Torres
+38,2026-07-30,Librería Central 1,20098050097,SKU-1017,Lavandina 5L Plus,10,40043.2,400432.0,Transferencia,Lucía Gómez
+39,2026-08-15,Diego García,20162720465,SKU-1029,Bolsa consorcio x100 Plus,10,3969.97,39699.7,Tarjeta,Camila Ruiz
+40,2026-06-26,Ana Romero,20236231665,SKU-1030,Bolsa consorcio x100 Eco,13,17061.86,221804.18,Tarjeta,Lucía Gómez
+41,2026-08-13,Lucía García,20271937452,SKU-1016,Lavandina 5L,12,22589.07,271068.84,Mercado Pago,Camila Ruiz
+42,2026-07-06,María Díaz,27966319314,SKU-1002,Resma A4 75g Plus,1,9286.06,9286.06,Efectivo,Diego Torres
+43,2026-08-17,Kiosco El Faro 15,27369957773,SKU-1019,Detergente 5L,12,28643.36,343720.32,Transferencia,Martín Pérez
+44,2026-08-26,Martín Díaz,27763201632,SKU-1040,Caja archivo,5,54022.2,270111.0,Efectivo,Lucía Gómez
+45,2026-06-05,Juan Sánchez,20735454948,SKU-1020,Detergente 5L Plus,19,28411.64,539821.16,Mercado Pago,Martín Pérez
+46,2026-07-12,Carlos Sánchez,27348734714,SKU-1006,Lapicera azul x12 Eco,14,20114.5,281603.0,Transferencia,Martín Pérez
+47,2026-07-17,Consumidor Final,20094777520,SKU-1009,Carpeta oficio Eco,17,20642.89,350929.13,Mercado Pago,Martín Pérez
+48,2026-07-08,Consumidor Final,20957885685,SKU-1017,Lavandina 5L Plus,11,40043.2,440475.2,Efectivo,Diego Torres
+49,2026-06-29,Tech Hogar SA 10,30607337543,SKU-1005,Lapicera azul x12 Plus,13,27047.15,351612.95,Mercado Pago,Lucía Gómez
+50,2026-07-04,Librería Central 1,20098050097,SKU-1026,Desinfectante 5L Plus,18,47913.52,862443.36,Efectivo,Diego Torres
+51,2026-08-14,Martín Díaz,27763201632,SKU-1024,Papel higiénico x30 Eco,13,51217.52,665827.76,Mercado Pago,Lucía Gómez
+52,2026-07-31,Kiosco El Faro 15,27369957773,SKU-1044,Calculadora Plus,1,13449.02,13449.02,Mercado Pago,Martín Pérez
+53,2026-08-21,Almacén Don Pepe 5,30808412411,SKU-1042,Caja archivo Eco,15,49147.04,737205.6,Mercado Pago,Diego Torres
+54,2026-06-06,Almacén Don Pepe 9,30232260256,SKU-1008,Carpeta oficio Plus,2,46407.82,92815.64,Mercado Pago,Diego Torres
+55,2026-07-01,Oficina Norte SRL 7,30427868011,SKU-1008,Carpeta oficio Plus,18,46407.82,835340.76,Transferencia,Diego Torres
+56,2026-08-25,Ana Martínez,27417080531,SKU-1030,Bolsa consorcio x100 Eco,18,17061.86,307113.48,Tarjeta,Martín Pérez
+57,2026-08-02,Oficina Norte SRL 7,30427868011,SKU-1027,Desinfectante 5L Eco,20,34335.27,686705.4,Tarjeta,Camila Ruiz
+58,2026-06-28,Ana Martínez,27417080531,SKU-1003,Resma A4 75g Eco,15,23331.55,349973.25,Tarjeta,Martín Pérez
+59,2026-08-27,Oficina Norte SRL 7,30427868011,SKU-1024,Papel higiénico x30 Eco,12,51217.52,614610.24,Mercado Pago,Lucía Gómez
+60,2026-06-25,Diego Pérez,27278895798,SKU-1026,Desinfectante 5L Plus,4,47913.52,191654.08,Tarjeta,Lucía Gómez
+61,2026-08-22,Oficina Norte SRL 14,30564823662,SKU-1043,Calculadora,20,50220.32,1004406.4,Efectivo,Lucía Gómez
+62,2026-06-17,Carlos Fernández,27134332003,SKU-1022,Papel higiénico x30,19,29114.81,553181.39,Transferencia,Lucía Gómez
+63,2026-06-27,Consumidor Final,20167190229,SKU-1049,Auricular vincha,19,2366.89,44970.91,Transferencia,Martín Pérez
+64,2026-08-16,Tech Hogar SA 10,30607337543,SKU-1022,Papel higiénico x30,1,29114.81,29114.81,Mercado Pago,Martín Pérez
+65,2026-07-03,Consumidor Final,20094777520,SKU-1009,Carpeta oficio Eco,6,20642.89,123857.34,Efectivo,Lucía Gómez
+66,2026-07-16,Librería Central 1,20098050097,SKU-1009,Carpeta oficio Eco,8,20642.89,165143.12,Mercado Pago,Lucía Gómez
+67,2026-06-07,Martín Díaz,27763201632,SKU-1012,Cuaderno espiral Eco,5,22127.64,110638.2,Tarjeta,Lucía Gómez
+68,2026-07-31,Almacén Don Pepe 5,30808412411,SKU-1048,Alargue 5m,15,34702.46,520536.9,Mercado Pago,Lucía Gómez
+69,2026-06-29,Consumidor Final,20749894134,SKU-1029,Bolsa consorcio x100 Plus,20,3969.97,79399.4,Efectivo,Camila Ruiz
+70,2026-06-08,Kiosco El Faro 2,20191361939,SKU-1030,Bolsa consorcio x100 Eco,16,17061.86,272989.76,Tarjeta,Diego Torres
+71,2026-08-02,Oficina Norte SRL 7,30427868011,SKU-1044,Calculadora Plus,15,13449.02,201735.3,Efectivo,Lucía Gómez
+72,2026-06-19,Consumidor Final,20123281206,SKU-1021,Detergente 5L Eco,3,43514.73,130544.19,Transferencia,Camila Ruiz
+73,2026-08-10,Consumidor Final,20964990913,SKU-1040,Caja archivo,11,54022.2,594244.2,Tarjeta,Camila Ruiz
+74,2026-08-17,Consumidor Final,20749894134,SKU-1030,Bolsa consorcio x100 Eco,14,17061.86,238866.04,Efectivo,Lucía Gómez
+75,2026-09-01,Consumidor Final,20167190229,SKU-1042,Caja archivo Eco,7,49147.04,344029.28,Tarjeta,Diego Torres
+76,2026-07-14,Diego Martínez,20850671657,SKU-1015,Tóner alternativo Eco,15,57307.26,859608.9,Tarjeta,Diego Torres
+77,2026-07-11,Oficina Norte SRL 7,30427868011,SKU-1047,Teclado USB,14,64085.61,897198.54,Mercado Pago,Camila Ruiz
+78,2026-08-27,Tech Hogar SA 10,30607337543,SKU-1024,Papel higiénico x30 Eco,16,51217.52,819480.32,Efectivo,Lucía Gómez
+79,2026-07-26,Almacén Don Pepe 6,30534874016,SKU-1006,Lapicera azul x12 Eco,4,20114.5,80458.0,Mercado Pago,Martín Pérez
+80,2026-08-15,Comercio San Martín 4,20838425135,SKU-1036,Escritorio 120cm Eco,18,34173.48,615122.64,Mercado Pago,Lucía Gómez
+81,2026-08-25,Diego García,20162720465,SKU-1027,Desinfectante 5L Eco,14,34335.27,480693.78,Efectivo,Camila Ruiz
+82,2026-07-16,Ana Romero,20236231665,SKU-1039,Cinta embalaje x6 Eco,4,36989.76,147959.04,Transferencia,Martín Pérez
+83,2026-06-29,Consumidor Final,20957885685,SKU-1043,Calculadora,4,50220.32,200881.28,Mercado Pago,Camila Ruiz
+84,2026-08-13,Diego Pérez,27278895798,SKU-1008,Carpeta oficio Plus,8,46407.82,371262.56,Tarjeta,Lucía Gómez
+85,2026-06-04,Diego Pérez,27278895798,SKU-1039,Cinta embalaje x6 Eco,6,36989.76,221938.56,Mercado Pago,Camila Ruiz
+86,2026-06-01,Diego García,20162720465,SKU-1022,Papel higiénico x30,6,29114.81,174688.86,Transferencia,Diego Torres
+87,2026-09-03,Tech Hogar SA 10,30607337543,SKU-1005,Lapicera azul x12 Plus,1,27047.15,27047.15,Efectivo,Martín Pérez
+88,2026-07-29,Diego Martínez,20850671657,SKU-1025,Desinfectante 5L,11,27847.61,306323.71,Transferencia,Camila Ruiz
+89,2026-08-12,Juan Pérez,27909670546,SKU-1020,Detergente 5L Plus,20,28411.64,568232.8,Efectivo,Lucía Gómez
+90,2026-08-19,Librería Central 11,27414586850,SKU-1010,Cuaderno espiral,2,4615.47,9230.94,Efectivo,Camila Ruiz
+91,2026-08-02,Diego Rodríguez,27694531473,SKU-1029,Bolsa consorcio x100 Plus,20,3969.97,79399.4,Tarjeta,Diego Torres
+92,2026-08-05,Oficina Norte SRL 14,30564823662,SKU-1018,Lavandina 5L Eco,4,16649.77,66599.08,Mercado Pago,Diego Torres
+93,2026-08-26,Carlos Sánchez,27348734714,SKU-1008,Carpeta oficio Plus,19,46407.82,881748.58,Tarjeta,Camila Ruiz
+94,2026-07-21,Kiosco El Faro 15,27369957773,SKU-1003,Resma A4 75g Eco,20,23331.55,466631.0,Efectivo,Lucía Gómez
+95,2026-06-28,Ana Romero,20236231665,SKU-1014,Tóner alternativo Plus,5,28911.87,144559.35,Mercado Pago,Camila Ruiz
+96,2026-06-01,Oficina Norte SRL 8,30620450533,SKU-1021,Detergente 5L Eco,16,43514.73,696235.68,Tarjeta,Martín Pérez
+97,2026-08-08,Lucía García,20271937452,SKU-1009,Carpeta oficio Eco,8,20642.89,165143.12,Mercado Pago,Lucía Gómez
+98,2026-07-26,Tech Hogar SA 3,30435346247,SKU-1026,Desinfectante 5L Plus,1,47913.52,47913.52,Tarjeta,Lucía Gómez
+99,2026-07-25,Consumidor Final,20186999386,SKU-1021,Detergente 5L Eco,19,43514.73,826779.87,Tarjeta,Diego Torres
+100,2026-07-22,Oficina Norte SRL 8,30620450533,SKU-1019,Detergente 5L,1,28643.36,28643.36,Mercado Pago,Martín Pérez
+101,2026-08-28,María Pérez,27837770143,SKU-1040,Caja archivo,12,54022.2,648266.4,Efectivo,Diego Torres
+102,2026-07-26,Carlos Fernández,27134332003,SKU-1007,Carpeta oficio,19,6837.13,129905.47,Tarjeta,Lucía Gómez
+103,2026-09-04,Ana Romero,20236231665,SKU-1026,Desinfectante 5L Plus,11,47913.52,527048.72,Transferencia,Camila Ruiz
+104,2026-06-10,Librería Central 11,27414586850,SKU-1050,Webcam HD,17,31634.85,537792.45,Efectivo,Martín Pérez
+105,2026-07-15,Diego García,20162720465,SKU-1050,Webcam HD,5,31634.85,158174.25,Transferencia,Lucía Gómez
+106,2026-06-26,Martín Díaz,27763201632,SKU-1010,Cuaderno espiral,6,4615.47,27692.82,Transferencia,Lucía Gómez
+107,2026-07-30,Consumidor Final,20443135182,SKU-1012,Cuaderno espiral Eco,19,22127.64,420425.16,Tarjeta,Camila Ruiz
+108,2026-06-20,Juan Pérez,27909670546,SKU-1041,Caja archivo Plus,15,39692.23,595383.45,Efectivo,Diego Torres
+109,2026-07-06,Ana Romero,20236231665,SKU-1029,Bolsa consorcio x100 Plus,19,3969.97,75429.43,Efectivo,Camila Ruiz
+110,2026-07-10,Almacén Don Pepe 5,30808412411,SKU-1033,Silla ergonómica Eco,15,53038.94,795584.1,Tarjeta,Lucía Gómez
+111,2026-07-07,Ana Martínez,27417080531,SKU-1004,Lapicera azul x12,3,39006.16,117018.48,Efectivo,Diego Torres
+112,2026-08-10,Consumidor Final,20964990913,SKU-1030,Bolsa consorcio x100 Eco,2,17061.86,34123.72,Tarjeta,Martín Pérez
+113,2026-07-31,Consumidor Final,20123281206,SKU-1021,Detergente 5L Eco,17,43514.73,739750.41,Transferencia,Lucía Gómez
+114,2026-07-14,Oficina Norte SRL 7,30427868011,SKU-1029,Bolsa consorcio x100 Plus,3,3969.97,11909.91,Transferencia,Lucía Gómez
+115,2026-07-27,Juan Sánchez,20735454948,SKU-1016,Lavandina 5L,17,22589.07,384014.19,Transferencia,Camila Ruiz
+116,2026-07-20,Carlos Sánchez,27348734714,SKU-1024,Papel higiénico x30 Eco,14,51217.52,717045.28,Mercado Pago,Lucía Gómez
+117,2026-06-09,Diego Díaz,27346706562,SKU-1041,Caja archivo Plus,11,39692.23,436614.53,Efectivo,Diego Torres
+118,2026-09-01,Martín Díaz,27763201632,SKU-1019,Detergente 5L,20,28643.36,572867.2,Transferencia,Camila Ruiz
+119,2026-08-24,Consumidor Final,20964990913,SKU-1006,Lapicera azul x12 Eco,5,20114.5,100572.5,Mercado Pago,Camila Ruiz
+120,2026-06-17,María Díaz,27966319314,SKU-1042,Caja archivo Eco,20,49147.04,982940.8,Efectivo,Camila Ruiz
+121,2026-08-22,Lucía García,20271937452,SKU-1036,Escritorio 120cm Eco,11,34173.48,375908.28,Transferencia,Lucía Gómez
+122,2026-08-05,Diego Rodríguez,27694531473,SKU-1042,Caja archivo Eco,12,49147.04,589764.48,Efectivo,Camila Ruiz
+123,2026-06-28,Almacén Don Pepe 12,20196556981,SKU-1020,Detergente 5L Plus,11,28411.64,312528.04,Tarjeta,Martín Pérez
+124,2026-06-20,Almacén Don Pepe 9,30232260256,SKU-1015,Tóner alternativo Eco,3,57307.26,171921.78,Mercado Pago,Lucía Gómez
+125,2026-09-03,Consumidor Final,20094777520,SKU-1033,Silla ergonómica Eco,17,53038.94,901661.98,Efectivo,Camila Ruiz
+126,2026-06-17,Consumidor Final,20034471349,SKU-1050,Webcam HD,20,31634.85,632697.0,Tarjeta,Martín Pérez
+127,2026-08-28,Almacén Don Pepe 12,20196556981,SKU-1011,Cuaderno espiral Plus,20,51943.03,1038860.6,Transferencia,Diego Torres
+128,2026-07-17,Diego Martínez,20850671657,SKU-1003,Resma A4 75g Eco,8,23331.55,186652.4,Tarjeta,Camila Ruiz
+129,2026-06-30,Juan Sánchez,20735454948,SKU-1049,Auricular vincha,18,2366.89,42604.02,Transferencia,Camila Ruiz
+130,2026-07-18,Kiosco El Faro 13,20883561595,SKU-1031,Silla ergonómica,19,58888.08,1118873.52,Tarjeta,Diego Torres
+131,2026-07-19,Carlos Sánchez,27348734714,SKU-1050,Webcam HD,17,31634.85,537792.45,Tarjeta,Martín Pérez
+132,2026-06-18,Consumidor Final,20123281206,SKU-1013,Tóner alternativo,9,40660.23,365942.07,Efectivo,Diego Torres
+133,2026-06-14,Consumidor Final,20167190229,SKU-1024,Papel higiénico x30 Eco,17,51217.52,870697.84,Efectivo,Camila Ruiz
+134,2026-07-05,Librería Central 11,27414586850,SKU-1006,Lapicera azul x12 Eco,15,20114.5,301717.5,Transferencia,Diego Torres
+135,2026-07-28,Kiosco El Faro 15,27369957773,SKU-1006,Lapicera azul x12 Eco,12,20114.5,241374.0,Efectivo,Diego Torres
+136,2026-08-04,María Díaz,27966319314,SKU-1004,Lapicera azul x12,12,39006.16,468073.92,Transferencia,Diego Torres
+137,2026-06-29,Ana Martínez,27417080531,SKU-1006,Lapicera azul x12 Eco,1,20114.5,20114.5,Mercado Pago,Lucía Gómez
+138,2026-06-19,Diego Díaz,27346706562,SKU-1046,Mouse USB,5,8568.57,42842.85,Efectivo,Camila Ruiz
+139,2026-08-30,Almacén Don Pepe 9,30232260256,SKU-1031,Silla ergonómica,16,58888.08,942209.28,Tarjeta,Lucía Gómez
+140,2026-07-03,Kiosco El Faro 2,20191361939,SKU-1006,Lapicera azul x12 Eco,7,20114.5,140801.5,Transferencia,Diego Torres
+141,2026-07-01,Carlos Sánchez,27348734714,SKU-1008,Carpeta oficio Plus,10,46407.82,464078.2,Efectivo,Lucía Gómez
+142,2026-08-21,Diego Martínez,20850671657,SKU-1016,Lavandina 5L,20,22589.07,451781.4,Tarjeta,Lucía Gómez
+143,2026-08-16,Consumidor Final,20443135182,SKU-1008,Carpeta oficio Plus,18,46407.82,835340.76,Efectivo,Martín Pérez
+144,2026-07-08,Tech Hogar SA 10,30607337543,SKU-1046,Mouse USB,14,8568.57,119959.98,Efectivo,Camila Ruiz
+145,2026-07-24,Consumidor Final,20186999386,SKU-1016,Lavandina 5L,6,22589.07,135534.42,Efectivo,Camila Ruiz
+146,2026-08-09,Consumidor Final,20408240084,SKU-1005,Lapicera azul x12 Plus,17,27047.15,459801.55,Efectivo,Diego Torres
+147,2026-08-21,Tech Hogar SA 3,30435346247,SKU-1031,Silla ergonómica,13,58888.08,765545.04,Mercado Pago,Camila Ruiz
+148,2026-07-16,Kiosco El Faro 2,20191361939,SKU-1048,Alargue 5m,3,34702.46,104107.38,Mercado Pago,Martín Pérez
+149,2026-08-14,Oficina Norte SRL 7,30427868011,SKU-1047,Teclado USB,11,64085.61,704941.71,Transferencia,Lucía Gómez
+150,2026-07-14,Consumidor Final,20094777520,SKU-1023,Papel higiénico x30 Plus,6,45230.88,271385.28,Tarjeta,Diego Torres
+151,2026-06-18,Almacén Don Pepe 12,20196556981,SKU-1041,Caja archivo Plus,3,39692.23,119076.69,Tarjeta,Lucía Gómez
+152,2026-06-06,Kiosco El Faro 13,20883561595,SKU-1019,Detergente 5L,7,28643.36,200503.52,Efectivo,Camila Ruiz
+153,2026-07-21,Consumidor Final,20749894134,SKU-1020,Detergente 5L Plus,18,28411.64,511409.52,Tarjeta,Camila Ruiz
+154,2026-07-07,Kiosco El Faro 13,20883561595,SKU-1003,Resma A4 75g Eco,12,23331.55,279978.6,Efectivo,Camila Ruiz
+155,2026-07-18,Oficina Norte SRL 8,30620450533,SKU-1018,Lavandina 5L Eco,14,16649.77,233096.78,Tarjeta,Diego Torres
+156,2026-06-24,Diego Díaz,27346706562,SKU-1025,Desinfectante 5L,16,27847.61,445561.76,Tarjeta,Camila Ruiz
+157,2026-06-11,Diego Pérez,27278895798,SKU-1034,Escritorio 120cm,14,27582.28,386151.92,Efectivo,Diego Torres
+158,2026-08-09,Almacén Don Pepe 12,20196556981,SKU-1039,Cinta embalaje x6 Eco,10,36989.76,369897.6,Mercado Pago,Lucía Gómez
+159,2026-08-24,Juan Pérez,27909670546,SKU-1006,Lapicera azul x12 Eco,10,20114.5,201145.0,Mercado Pago,Diego Torres
+160,2026-06-22,Diego Rodríguez,27694531473,SKU-1039,Cinta embalaje x6 Eco,15,36989.76,554846.4,Mercado Pago,Diego Torres
+161,2026-08-18,Diego García,20162720465,SKU-1003,Resma A4 75g Eco,14,23331.55,326641.7,Mercado Pago,Lucía Gómez
+162,2026-07-17,María Díaz,27966319314,SKU-1005,Lapicera azul x12 Plus,17,27047.15,459801.55,Transferencia,Lucía Gómez
+163,2026-08-26,Consumidor Final,20123281206,SKU-1010,Cuaderno espiral,15,4615.47,69232.05,Efectivo,Martín Pérez
+164,2026-08-22,Carlos Fernández,27134332003,SKU-1005,Lapicera azul x12 Plus,12,27047.15,324565.8,Mercado Pago,Diego Torres
+165,2026-08-17,Tech Hogar SA 3,30435346247,SKU-1037,Cinta embalaje x6,5,38223.81,191119.05,Tarjeta,Camila Ruiz
+166,2026-06-10,Juan Sánchez,20735454948,SKU-1024,Papel higiénico x30 Eco,19,51217.52,973132.88,Transferencia,Camila Ruiz
+167,2026-08-23,Juan Pérez,27909670546,SKU-1026,Desinfectante 5L Plus,9,47913.52,431221.68,Transferencia,Lucía Gómez
+168,2026-08-03,Almacén Don Pepe 12,20196556981,SKU-1002,Resma A4 75g Plus,17,9286.06,157863.02,Tarjeta,Lucía Gómez
+169,2026-08-30,Martín Díaz,27763201632,SKU-1017,Lavandina 5L Plus,15,40043.2,600648.0,Transferencia,Camila Ruiz
+170,2026-06-26,Consumidor Final,20443135182,SKU-1045,Calculadora Eco,4,33548.21,134192.84,Transferencia,Lucía Gómez
+171,2026-08-31,Almacén Don Pepe 12,20196556981,SKU-1029,Bolsa consorcio x100 Plus,15,3969.97,59549.55,Efectivo,Camila Ruiz
+172,2026-08-30,Diego García,20162720465,SKU-1043,Calculadora,3,50220.32,150660.96,Mercado Pago,Camila Ruiz
+173,2026-07-17,Almacén Don Pepe 12,20196556981,SKU-1011,Cuaderno espiral Plus,17,51943.03,883031.51,Transferencia,Lucía Gómez
+174,2026-07-01,Almacén Don Pepe 9,30232260256,SKU-1013,Tóner alternativo,16,40660.23,650563.68,Efectivo,Camila Ruiz
+175,2026-07-18,Consumidor Final,20186999386,SKU-1036,Escritorio 120cm Eco,15,34173.48,512602.2,Transferencia,Lucía Gómez
+176,2026-07-21,Ana Romero,20236231665,SKU-1005,Lapicera azul x12 Plus,16,27047.15,432754.4,Tarjeta,Diego Torres
+177,2026-06-17,Almacén Don Pepe 5,30808412411,SKU-1037,Cinta embalaje x6,11,38223.81,420461.91,Efectivo,Diego Torres
+178,2026-07-15,Consumidor Final,20408240084,SKU-1030,Bolsa consorcio x100 Eco,5,17061.86,85309.3,Transferencia,Martín Pérez
+179,2026-06-08,Consumidor Final,20749894134,SKU-1028,Bolsa consorcio x100,4,67295.65,269182.6,Transferencia,Camila Ruiz
+180,2026-07-12,Librería Central 11,27414586850,SKU-1011,Cuaderno espiral Plus,8,51943.03,415544.24,Mercado Pago,Camila Ruiz
+181,2026-06-26,Martín Díaz,27763201632,SKU-1006,Lapicera azul x12 Eco,18,20114.5,362061.0,Mercado Pago,Martín Pérez
+182,2026-08-18,Ana Romero,20236231665,SKU-1041,Caja archivo Plus,18,39692.23,714460.14,Efectivo,Martín Pérez
+183,2026-06-20,Consumidor Final,20964990913,SKU-1038,Cinta embalaje x6 Plus,6,5999.56,35997.36,Mercado Pago,Lucía Gómez
+184,2026-06-06,Almacén Don Pepe 6,30534874016,SKU-1002,Resma A4 75g Plus,19,9286.06,176435.14,Mercado Pago,Martín Pérez
+185,2026-07-24,Consumidor Final,20186999386,SKU-1050,Webcam HD,20,31634.85,632697.0,Efectivo,Diego Torres
+186,2026-07-08,Consumidor Final,20094777520,SKU-1041,Caja archivo Plus,10,39692.23,396922.3,Tarjeta,Martín Pérez
+187,2026-07-09,María Díaz,27966319314,SKU-1044,Calculadora Plus,15,13449.02,201735.3,Efectivo,Lucía Gómez
+188,2026-07-24,Juan Sánchez,20735454948,SKU-1011,Cuaderno espiral Plus,16,51943.03,831088.48,Tarjeta,Martín Pérez
+189,2026-06-19,Consumidor Final,20123281206,SKU-1022,Papel higiénico x30,11,29114.81,320262.91,Mercado Pago,Camila Ruiz
+190,2026-07-18,Almacén Don Pepe 9,30232260256,SKU-1026,Desinfectante 5L Plus,17,47913.52,814529.84,Efectivo,Camila Ruiz
+191,2026-06-16,María Pérez,27837770143,SKU-1016,Lavandina 5L,9,22589.07,203301.63,Tarjeta,Martín Pérez
+192,2026-06-07,Oficina Norte SRL 7,30427868011,SKU-1010,Cuaderno espiral,10,4615.47,46154.7,Tarjeta,Diego Torres
+193,2026-07-12,Librería Central 11,27414586850,SKU-1016,Lavandina 5L,19,22589.07,429192.33,Mercado Pago,Martín Pérez
+194,2026-08-03,Librería Central 11,27414586850,SKU-1049,Auricular vincha,17,2366.89,40237.13,Tarjeta,Diego Torres
+195,2026-06-03,Consumidor Final,20443135182,SKU-1020,Detergente 5L Plus,3,28411.64,85234.92,Tarjeta,Diego Torres
+196,2026-08-14,Oficina Norte SRL 14,30564823662,SKU-1016,Lavandina 5L,12,22589.07,271068.84,Efectivo,Lucía Gómez
+197,2026-08-16,Consumidor Final,20443135182,SKU-1019,Detergente 5L,16,28643.36,458293.76,Mercado Pago,Lucía Gómez
+198,2026-06-18,Diego Rodríguez,27694531473,SKU-1007,Carpeta oficio,9,6837.13,61534.17,Mercado Pago,Diego Torres
+199,2026-07-22,Tech Hogar SA 3,30435346247,SKU-1024,Papel higiénico x30 Eco,2,51217.52,102435.04,Transferencia,Camila Ruiz
+200,2026-06-10,Carlos Sánchez,27348734714,SKU-1036,Escritorio 120cm Eco,13,34173.48,444255.24,Tarjeta,Camila Ruiz

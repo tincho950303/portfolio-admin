@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+02-reporte-automatico-python/output/*
+!02-reporte-automatico-python/output/.gitkeep
+03-facturacion-conciliacion/output/*
+!03-facturacion-conciliacion/output/.gitkeep

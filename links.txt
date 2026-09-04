@@ -1,0 +1,14 @@
+# Links públicos - completar Día 6
+# Formato: NOMBRE = URL (o PENDIENTE)
+
+DRIVE_CARPETA = https://drive.google.com/drive/folders/1p87ixEJ37Uf76hdiADHUWlMrOUcgOkrU?usp=sharing
+SHEETS_STOCK_VENTAS = PENDIENTE
+SHEETS_FACTURACION = PENDIENTE
+SHEETS_CRM = PENDIENTE
+GITHUB_REPO = PENDIENTE: crear repo portfolio-admin y pegar URL
+VIDEO_LOOM_60SEG = PENDIENTE
+CV_PDF = PENDIENTE
+
+# Instrucciones rápidas:
+# Drive: clic derecho carpeta -> Compartir -> Acceso general: Cualquier persona con enlace: Lector -> Copiar enlace
+# GitHub: git init + git add . + git commit -m "portfolio admin dia1" + push

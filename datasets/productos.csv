@@ -1,0 +1,51 @@
+﻿codigo,nombre,categoria,proveedor,precio_compra,precio_venta,stock_actual,stock_minimo
+SKU-1001,Resma A4 75g,Librería,Mayorista CABA SRL,26117.93,34279.92,70,15
+SKU-1002,Resma A4 75g Plus,Librería,Electro GBA SA,6872.21,9286.06,189,10
+SKU-1003,Resma A4 75g Eco,Librería,Electro GBA SA,17743.99,23331.55,55,15
+SKU-1004,Lapicera azul x12,Librería,Mayorista CABA SRL,24677.72,39006.16,183,30
+SKU-1005,Lapicera azul x12 Plus,Librería,Oficina Ya SRL,18794.55,27047.15,1,15
+SKU-1006,Lapicera azul x12 Eco,Librería,Distribuidora Sur SA,14599.64,20114.5,195,20
+SKU-1007,Carpeta oficio,Librería,Distribuidora Sur SA,5070.71,6837.13,88,20
+SKU-1008,Carpeta oficio Plus,Librería,Electro GBA SA,29594.67,46407.82,96,10
+SKU-1009,Carpeta oficio Eco,Librería,Distribuidora Sur SA,12787.36,20642.89,92,15
+SKU-1010,Cuaderno espiral,Librería,Mayorista CABA SRL,3264.24,4615.47,74,10
+SKU-1011,Cuaderno espiral Plus,Librería,Mayorista CABA SRL,34859.62,51943.03,116,20
+SKU-1012,Cuaderno espiral Eco,Librería,Electro GBA SA,15751.97,22127.64,68,10
+SKU-1013,Tóner alternativo,Librería,Oficina Ya SRL,25946.66,40660.23,62,15
+SKU-1014,Tóner alternativo Plus,Librería,Limpieza Total SA,16109.03,28911.87,163,15
+SKU-1015,Tóner alternativo Eco,Librería,Limpieza Total SA,33949.8,57307.26,58,10
+SKU-1016,Lavandina 5L,Limpieza,Mayorista CABA SRL,16944.84,22589.07,145,20
+SKU-1017,Lavandina 5L Plus,Limpieza,Mayorista CABA SRL,26734.39,40043.2,164,30
+SKU-1018,Lavandina 5L Eco,Limpieza,Electro GBA SA,11697.89,16649.77,143,20
+SKU-1019,Detergente 5L,Limpieza,Mayorista CABA SRL,17994.7,28643.36,92,15
+SKU-1020,Detergente 5L Plus,Limpieza,Mayorista CABA SRL,21116.76,28411.64,12,10
+SKU-1021,Detergente 5L Eco,Limpieza,Oficina Ya SRL,25656.67,43514.73,108,10
+SKU-1022,Papel higiénico x30,Limpieza,Electro GBA SA,16192.34,29114.81,135,20
+SKU-1023,Papel higiénico x30 Plus,Limpieza,Electro GBA SA,34640.02,45230.88,184,10
+SKU-1024,Papel higiénico x30 Eco,Limpieza,Limpieza Total SA,30408.8,51217.52,87,10
+SKU-1025,Desinfectante 5L,Limpieza,Electro GBA SA,18238.46,27847.61,184,20
+SKU-1026,Desinfectante 5L Plus,Limpieza,Electro GBA SA,30835.54,47913.52,27,20
+SKU-1027,Desinfectante 5L Eco,Limpieza,Electro GBA SA,24945.35,34335.27,195,15
+SKU-1028,Bolsa consorcio x100,Limpieza,Oficina Ya SRL,38209.74,67295.65,0,20
+SKU-1029,Bolsa consorcio x100 Plus,Limpieza,Distribuidora Sur SA,2249.85,3969.97,78,15
+SKU-1030,Bolsa consorcio x100 Eco,Limpieza,Oficina Ya SRL,10773.56,17061.86,20,10
+SKU-1031,Silla ergonómica,Oficina,Mayorista CABA SRL,32916.9,58888.08,136,15
+SKU-1032,Silla ergonómica Plus,Oficina,Electro GBA SA,26900.41,47705.84,42,20
+SKU-1033,Silla ergonómica Eco,Oficina,Limpieza Total SA,35088.67,53038.94,54,15
+SKU-1034,Escritorio 120cm,Oficina,Electro GBA SA,16861.2,27582.28,95,30
+SKU-1035,Escritorio 120cm Plus,Oficina,Distribuidora Sur SA,18882.22,26887.39,16,20
+SKU-1036,Escritorio 120cm Eco,Oficina,Distribuidora Sur SA,24149.89,34173.48,56,10
+SKU-1037,Cinta embalaje x6,Oficina,Limpieza Total SA,28751.88,38223.81,17,10
+SKU-1038,Cinta embalaje x6 Plus,Oficina,Mayorista CABA SRL,4228.01,5999.56,171,30
+SKU-1039,Cinta embalaje x6 Eco,Oficina,Mayorista CABA SRL,22260.51,36989.76,146,30
+SKU-1040,Caja archivo,Oficina,Distribuidora Sur SA,31707.85,54022.2,48,10
+SKU-1041,Caja archivo Plus,Oficina,Distribuidora Sur SA,26870.84,39692.23,105,30
+SKU-1042,Caja archivo Eco,Oficina,Oficina Ya SRL,27424.54,49147.04,25,10
+SKU-1043,Calculadora,Oficina,Mayorista CABA SRL,29536.22,50220.32,27,15
+SKU-1044,Calculadora Plus,Oficina,Limpieza Total SA,8823.04,13449.02,108,15
+SKU-1045,Calculadora Eco,Oficina,Electro GBA SA,19311.18,33548.21,19,30
+SKU-1046,Mouse USB,Electrónica,Distribuidora Sur SA,5269.49,8568.57,138,10
+SKU-1047,Teclado USB,Electrónica,Oficina Ya SRL,37165.13,64085.61,42,30
+SKU-1048,Alargue 5m,Electrónica,Oficina Ya SRL,20032.3,34702.46,15,15
+SKU-1049,Auricular vincha,Electrónica,Limpieza Total SA,1582.98,2366.89,200,30
+SKU-1050,Webcam HD,Electrónica,Mayorista CABA SRL,17785.79,31634.85,200,30

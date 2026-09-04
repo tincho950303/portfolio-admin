@@ -1,0 +1,41 @@
+﻿id_cliente,nombre,cuit,cond_iva,email,telefono,localidad
+1,Librería Central 1,20098050097,Monotributo,cliente1@ejemplo.com.ar,11-9238-9701,Lanús
+2,Kiosco El Faro 2,20191361939,Responsable Inscripto,cliente2@ejemplo.com.ar,11-1651-2343,Morón
+3,Tech Hogar SA 3,30435346247,Monotributo,cliente3@ejemplo.com.ar,11-6180-2188,CABA
+4,Comercio San Martín 4,20838425135,Responsable Inscripto,cliente4@ejemplo.com.ar,11-5669-3584,Morón
+5,Almacén Don Pepe 5,30808412411,Monotributo,cliente5@ejemplo.com.ar,11-3546-5462,Quilmes
+6,Almacén Don Pepe 6,30534874016,Responsable Inscripto,cliente6@ejemplo.com.ar,11-5533-1722,CABA
+7,Oficina Norte SRL 7,30427868011,Responsable Inscripto,cliente7@ejemplo.com.ar,11-3442-9938,CABA
+8,Oficina Norte SRL 8,30620450533,Responsable Inscripto,cliente8@ejemplo.com.ar,11-2684-6794,Rosario
+9,Almacén Don Pepe 9,30232260256,Monotributo,cliente9@ejemplo.com.ar,11-5065-5371,Lanús
+10,Tech Hogar SA 10,30607337543,Responsable Inscripto,cliente10@ejemplo.com.ar,11-4652-1387,Córdoba
+11,Librería Central 11,27414586850,Monotributo,cliente11@ejemplo.com.ar,11-2889-5279,Lanús
+12,Almacén Don Pepe 12,20196556981,Monotributo,cliente12@ejemplo.com.ar,11-7311-4114,Quilmes
+13,Kiosco El Faro 13,20883561595,Monotributo,cliente13@ejemplo.com.ar,11-3041-5920,La Plata
+14,Oficina Norte SRL 14,30564823662,Monotributo,cliente14@ejemplo.com.ar,11-5930-7653,La Plata
+15,Kiosco El Faro 15,27369957773,Monotributo,cliente15@ejemplo.com.ar,11-9375-8752,Rosario
+16,Carlos Fernández,27134332003,Consumidor Final,cliente16@ejemplo.com.ar,11-8784-2193,Morón
+17,Martín Díaz,27763201632,Monotributo,cliente17@ejemplo.com.ar,11-9486-8611,CABA
+18,Diego Pérez,27278895798,Monotributo,cliente18@ejemplo.com.ar,11-7991-9976,Morón
+19,Carlos Sánchez,27348734714,Consumidor Final,cliente19@ejemplo.com.ar,11-4841-5451,Quilmes
+20,Ana Romero,20236231665,Monotributo,cliente20@ejemplo.com.ar,11-9890-8633,Morón
+21,Juan Pérez,27909670546,Consumidor Final,cliente21@ejemplo.com.ar,11-7865-9818,Córdoba
+22,Diego Díaz,27346706562,Monotributo,cliente22@ejemplo.com.ar,11-8657-3091,La Plata
+23,Diego García,20162720465,Consumidor Final,cliente23@ejemplo.com.ar,11-4467-8449,Quilmes
+24,Ana Martínez,27417080531,Consumidor Final,cliente24@ejemplo.com.ar,11-1659-1508,Lanús
+25,Lucía García,20271937452,Monotributo,cliente25@ejemplo.com.ar,11-2876-3683,Quilmes
+26,María Díaz,27966319314,Monotributo,cliente26@ejemplo.com.ar,11-2983-1672,Quilmes
+27,Diego Martínez,20850671657,Consumidor Final,cliente27@ejemplo.com.ar,11-3506-8135,Lanús
+28,Diego Rodríguez,27694531473,Consumidor Final,cliente28@ejemplo.com.ar,11-8613-7209,Quilmes
+29,Juan Sánchez,20735454948,Consumidor Final,cliente29@ejemplo.com.ar,11-1166-9464,Lanús
+30,María Pérez,27837770143,Consumidor Final,cliente30@ejemplo.com.ar,11-7625-4986,Quilmes
+31,Consumidor Final,20957885685,Consumidor Final,cliente31@ejemplo.com.ar,11-6764-8434,Quilmes
+32,Consumidor Final,20443135182,Consumidor Final,cliente32@ejemplo.com.ar,11-4138-4545,Córdoba
+33,Consumidor Final,20749894134,Consumidor Final,cliente33@ejemplo.com.ar,11-4727-6912,Lanús
+34,Consumidor Final,20408240084,Consumidor Final,cliente34@ejemplo.com.ar,11-3068-9042,CABA
+35,Consumidor Final,20094777520,Consumidor Final,cliente35@ejemplo.com.ar,11-5136-8827,CABA
+36,Consumidor Final,20167190229,Consumidor Final,cliente36@ejemplo.com.ar,11-5978-2395,Lanús
+37,Consumidor Final,20186999386,Consumidor Final,cliente37@ejemplo.com.ar,11-8381-8253,Quilmes
+38,Consumidor Final,20964990913,Consumidor Final,cliente38@ejemplo.com.ar,11-4457-5335,Córdoba
+39,Consumidor Final,20123281206,Consumidor Final,cliente39@ejemplo.com.ar,11-8381-8699,Quilmes
+40,Consumidor Final,20034471349,Consumidor Final,cliente40@ejemplo.com.ar,11-4241-7965,CABA
