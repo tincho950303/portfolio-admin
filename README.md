@@ -5,7 +5,7 @@ Disponibilidad inmediata - CABA/GBA - Presencial / Híbrido
 
 > Todos los datos son SIMULADOS con fines demostrativos. Ningún CUIT, CBU o persona es real.
 
-## Qué demuestro (lo que piden en Zonajobs / Computrabajo)
+## Qué demuestro
 
 1. **Control de Stock y Ventas (Sheets)** - carga, validaciones, tabla dinámica, dashboard.
 2. **Reporte Semanal Automático (Python)** - de Excel caótico a informe limpio en 1 clic.
