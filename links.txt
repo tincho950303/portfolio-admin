@@ -2,7 +2,7 @@
 # Formato: NOMBRE = URL (o PENDIENTE)
 
 DRIVE_CARPETA = https://drive.google.com/drive/folders/1p87ixEJ37Uf76hdiADHUWlMrOUcgOkrU?usp=sharing
-SHEETS_STOCK_VENTAS = PENDIENTE
+SHEETS_STOCK_VENTAS = https://docs.google.com/spreadsheets/d/1jWIxZa_ae3rMjxXgNjb8BIaPqaeDDLjfJ9QnPpkJ4ek/edit?usp=sharing
 SHEETS_FACTURACION = PENDIENTE
 SHEETS_CRM = PENDIENTE
 GITHUB_REPO = https://github.com/tincho950303/portfolio-admin.git
