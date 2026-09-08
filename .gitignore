@@ -4,3 +4,5 @@ __pycache__/
 !02-reporte-automatico-python/output/.gitkeep
 03-facturacion-conciliacion/output/*
 !03-facturacion-conciliacion/output/.gitkeep
+04-crm-tablero/output/*
+!04-crm-tablero/output/.gitkeep
