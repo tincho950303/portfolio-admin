@@ -3,9 +3,9 @@
 
 DRIVE_CARPETA = https://drive.google.com/drive/folders/1p87ixEJ37Uf76hdiADHUWlMrOUcgOkrU?usp=sharing
 SHEETS_STOCK_VENTAS = https://docs.google.com/spreadsheets/d/1jWIxZa_ae3rMjxXgNjb8BIaPqaeDDLjfJ9QnPpkJ4ek/edit?usp=sharing
-SHEETS_FACTURACION = PENDIENTE
-SHEETS_CRM = PENDIENTE
-GITHUB_REPO = https://github.com/tincho950303/portfolio-admin.git
+SHEETS_FACTURACION = https://docs.google.com/spreadsheets/d/12rz6nDnrVjVHMHGXCho9Px1UhwgPfb6zCfj0gf1McJk/edit?usp=sharing
+SHEETS_CRM = https://docs.google.com/spreadsheets/d/1gK-FO0OGkFxlAWbsmIM8z_oac8Loj8Z4NCdjnavk5oQ/edit?usp=sharing
+GITHUB_REPO = https://github.com/tincho950303/portfolio-admin
 VIDEO_LOOM_60SEG = PENDIENTE
 CV_PDF = PENDIENTE
 
